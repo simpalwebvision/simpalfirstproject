@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415042074999",
+    "project_id": "flutter-app-bac5e",
+    "storage_bucket": "flutter-app-bac5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415042074999:android:605792660105405a65c972",
+        "android_client_info": {
+          "package_name": "com.example.weblordinsitutes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415042074999-tujsc4m2l7lk24vl1djku7np391ppknv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr6hOLENF0kJDV456FAwsbGi3Q5xYviwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415042074999-tujsc4m2l7lk24vl1djku7np391ppknv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
